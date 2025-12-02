@@ -1,2 +1,2 @@
-# serverless-sail
-minor project 5th sem frontend and backend code structure 
+# SAIL UI Placeholder
+Full production code will be added later.
